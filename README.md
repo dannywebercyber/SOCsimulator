@@ -15,7 +15,6 @@ The lab simulates real-world **Security Operations Center (SOC)** workflows, inc
 ## 📚 Table of Contents
 - [Tools & Technologies](#-tools--technologies)
 - [Objectives](#-objectives)
-- [Lab Architecture](#-lab-architecture)
 - [Step-by-Step Walkthrough](#-step-by-step-walkthrough)
   - [Part 1 – Honeypot Setup](#part-1--honeypot-setup)
   - [Part 2 – Simulating Failed Logins](#part-2--simulating-failed-logins)
