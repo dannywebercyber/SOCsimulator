@@ -60,7 +60,7 @@ The lab simulates real-world **Security Operations Center (SOC)** workflows, inc
 1. Navigate to [Azure Portal](https://portal.azure.com) → Search for **Virtual Machines**.
 2. Create a **Windows 10 VM**  
    - Choose an appropriate size.  
-   - Set and record **username/password**.  
+   - Set and record **username/password**. 
 
    ![VM Creation](SOC%20SIMULATOR%20%2B%20SIEM%20PICTURES/VM_Creation.png)
 
